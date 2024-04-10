@@ -1,4 +1,19 @@
 # Standard VM Provisioning Procedure
+#################################################
+##                                             ##
+##               ADD NOTE                      ##
+##              1234567890                     ##
+##                    COMMIT                   ##
+##                   A                         ##
+##                    B                        ##
+##                    C                        ##  
+##                     D                       ##
+##                      E                      ##
+##                        F                    ##
+##                         G                   ##
+#################################################
+
+
 
 ## Purpose
 This document outlines the standard process for creating and configuring a new virtual machine (VM) within our infrastructure.
